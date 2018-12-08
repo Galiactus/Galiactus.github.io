@@ -55,20 +55,14 @@ label {
     margin: 10px;
 }
 
-.fa-angle-down {
-	font-size: 30px;
+.link {
+	font-size: 20px;
 	float:right;
 	margin-right: 15px;
 	margin-top: 2px;
 
 }
 
-#meu_div{
- color: white;
-}
-#meu_div2{
- color: white;
-}
 
 
 .spinEffect{
