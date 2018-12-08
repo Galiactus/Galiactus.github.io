@@ -10,7 +10,8 @@
 
 a {
   text-decoration: none;
-  font-family: Arial
+  font-family: Arial;
+  float:right;
 }
 a:hover {
     text-decoration: none;
