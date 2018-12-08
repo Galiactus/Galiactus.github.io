@@ -39,7 +39,7 @@ div h5 {
 }
 
 label {
-	background: white;
+	background: red;
 	color: white;
 	font-weight: bold;
 	padding:15px;
@@ -49,6 +49,10 @@ label {
 
 }
 
+#meu_div4, #meu_div5,#meu_div6,#meu_div7,#meu_div8,#meu_div13,#meu_div14,#meu_div15 { 
+
+	background: orange; 
+} 
 
 .toggle-box + label + div {
     border-radius: 5px;
